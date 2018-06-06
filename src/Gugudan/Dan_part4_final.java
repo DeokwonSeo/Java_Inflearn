@@ -56,7 +56,7 @@ public class Dan_part4_final {
 
 		int[][] result = calculate(number, number2);
 		// print(result);
-
+		scanner.close();
 	}
 
 }

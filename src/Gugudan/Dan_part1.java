@@ -96,7 +96,7 @@ public class Dan_part1 {
 				System.out.println(number1 * j);
 			}
 		}
-		
+		scanner1.close();
 		
 		
 
